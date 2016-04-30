@@ -34,3 +34,5 @@ A project spans across many developers across many months. Some developers use t
 ### Required only when Asset Pipeline is enabled *(not supported yet)*
 * Run `rails g view_finder g:install` to copy from the static javascripts to public/ directory
 
+## TODO
+# See Footnotes::Filter.prefix = 'mvim://open?url=file://%s&line=%d&column=%d'. Add support for vim . https://github.com/josevalim/rails-footnotes
